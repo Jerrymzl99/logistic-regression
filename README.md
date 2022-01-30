@@ -1,2 +1,2 @@
-# Logistic Regression Implementation in the ML Course of Andrew Ng
+## Logistic Regression Implementation in the ML Course of Andrew Ng
 
